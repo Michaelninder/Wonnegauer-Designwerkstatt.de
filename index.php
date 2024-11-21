@@ -1,4 +1,5 @@
-<?php include 'assets/php/config.php';
+<?php include 'assets/php/config.php'; include 'assets/php/cookies.php';
+
 
 
 ${page.name} = ${name.index}; 
