@@ -13,4 +13,5 @@ ${title.us} = "Wir";
 // Page messages
 ${message.index} = "Willkommen auf unserer Startseite!";
 ${message.contact} = "Kontaktieren Sie uns!";
+${message.design} = "Unser Design Portfolio";
 ?>
