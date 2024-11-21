@@ -1,7 +1,7 @@
 <?php 
 ${title.index} = "Startseite";
 ${title.contact} = "Kontakt";
-${design.title} = "Design";
+${title.design} = "Design";
 ${art.title} = "Kunst";
 ${current.title} = "Aktuelles";
 ${tours.title} = "Führungen";
