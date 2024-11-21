@@ -11,3 +11,7 @@
   A:hover {color: #CC0000; font-family: Consolas}
 </style>
 </head>
+<body>
+
+<?php include 'header.php'; ?>
+
