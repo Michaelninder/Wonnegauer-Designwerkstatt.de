@@ -16,4 +16,5 @@ ${message.contact} = "Kontaktieren Sie uns!";
 ${message.design} = "Unser Design Portfolio";
 ${message.art} = "Unsere Kunstwerke";
 ${message.current} = "Aktuelles aus der Designwerkstatt";
+${message.tours} = "Unsere Gästeführungen";
 ?>
