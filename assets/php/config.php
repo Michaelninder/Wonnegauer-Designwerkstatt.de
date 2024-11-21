@@ -1,19 +1,23 @@
 <?php
 // Page titles
-${title.index} = "Startseite";
-${title.contact} = "Kontakt";
-${title.design} = "Design";
-${title.art} = "Kunst";
-${title.current} = "Aktuelles";
-${title.tours} = "Führungen";
-${title.us} = "Wir";
+$title = [
+    "index" => "Startseite",
+    "contact" => "Kontakt",
+    "design" => "Design",
+    "art" => "Kunst",
+    "current" => "Aktuelles",
+    "tours" => "Führungen",
+    "us" => "Wir"
+];
 
 // Page messages
-${message.index} = "Willkommen auf der Seite der Wonnegauer Designwerkstatt.";
-${message.contact} = "Kontaktieren Sie uns!";
-${message.design} = "Unser Design Portfolio";
-${message.art} = "Unsere Kunstwerke";
-${message.current} = "Aktuelles aus der Designwerkstatt";
-${message.tours} = "Unsere Gästeführungen";
-${message.us} = "Über uns";
+$message = [
+    "index" => "Willkommen auf der Seite der Wonnegauer Designwerkstatt.",
+    "contact" => "Kontaktieren Sie uns!",
+    "design" => "Unser Design Portfolio",
+    "art" => "Unsere Kunstwerke",
+    "current" => "Aktuelles aus der Designwerkstatt",
+    "tours" => "Unsere Gästeführungen",
+    "us" => "Über uns"
+];
 ?>
