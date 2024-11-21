@@ -15,4 +15,5 @@ ${message.index} = "Willkommen auf unserer Startseite!";
 ${message.contact} = "Kontaktieren Sie uns!";
 ${message.design} = "Unser Design Portfolio";
 ${message.art} = "Unsere Kunstwerke";
+${message.current} = "Aktuelles aus der Designwerkstatt";
 ?>
