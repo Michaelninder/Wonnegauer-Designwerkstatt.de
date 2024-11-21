@@ -3,11 +3,11 @@ include 'assets/php/config.php';
 include 'assets/php/cookies.php';
 
 // Setzt Seiteneigenschaften
-${page.name} = ${name.index}; 
-${page.title} = ${title.index}; 
-${page.message} = ${message.index};
+$page_name = "index";
+$page_title = $title[$page_name];
+$page_message = $message[$page_name];
 
-// Kopfbereich einbinden, der die Theme-Einstellungen (Dark-/Light-Modus) aus dem Cookie liest
+// Kopfbereich einbinden
 include 'assets/php/head.php'; 
 ?>
 
@@ -15,8 +15,8 @@ include 'assets/php/head.php';
     <table border="0" cellpadding="0" cellspacing="0" width="955">
         <tr>
             <td valign="top" style="padding-left: 4px" colspan="3">
-                <h1><?php echo ${page.title}; ?></h1>
-                <p><?php echo ${page.message}; ?></p>
+                <h1><?php echo $page_title; ?></h1>
+                <p><?php echo $page_message; ?></p>
                 <p>Wir, Brigitte und Wolfgang Ternis, sind in den Bereichen Design, Kunst, Kultur und Tourismus in Rheinhessen tätig. Unser Ziel ist die Förderung von Kreativität, Lebensqualität und Wohlbefinden.</p>
             </td>
         </tr>
@@ -37,6 +37,5 @@ include 'assets/php/head.php';
 </div>
 
 <?php 
-// Footer-Bereich einbinden
 include 'assets/php/footer.php'; 
 ?>
