@@ -44,3 +44,31 @@ button:hover {
     margin: 0 auto;
     padding: 20px;
 }
+
+/* Dark Theme Colors */
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+}
+
+header, footer {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+nav a {
+    color: #CCCCCC;
+}
+
+nav a:hover {
+    color: #FF5722;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #E0E0E0;
+}
+
