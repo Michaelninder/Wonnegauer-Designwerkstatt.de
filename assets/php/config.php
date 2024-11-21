@@ -7,4 +7,7 @@ ${title.art} = "Kunst";
 ${title.current} = "Aktuelles";
 ${title.tours} = "Führungen";
 ${title.us} = "Wir";
+
+
+
 ?>
