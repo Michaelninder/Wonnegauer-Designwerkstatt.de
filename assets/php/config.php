@@ -1,6 +1,6 @@
 <?php 
 ${title.index} = "Startseite";
-${contact.title} = "Kontakt";
+${title.contact} = "Kontakt";
 ${design.title} = "Design";
 ${art.title} = "Kunst";
 ${current.title} = "Aktuelles";
