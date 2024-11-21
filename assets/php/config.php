@@ -4,6 +4,6 @@ ${title.contact} = "Kontakt";
 ${title.design} = "Design";
 ${title.art} = "Kunst";
 ${title.current} = "Aktuelles";
-${tours.title} = "Führungen";
+${title.tours.title} = "Führungen";
 ${us.title} = "Wir";
 ?>
