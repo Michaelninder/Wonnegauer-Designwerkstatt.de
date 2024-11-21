@@ -1,3 +1,4 @@
+<html>
 <head>
 <meta http-equiv="Content-Language" content="de">
 <meta name="keywords" content="Wonnegauer Designwerkstatt, Ternis, Designwerkstatt Ternis, Designwerkstatt, Brigitte Ternis, Wolfgang Ternis, Design Flörsheim-Dalsheim, Kunst  Flörsheim-Dalsheim, Kultur  Flörsheim-Dalsheim, Tourismus  Flörsheim-Dalsheim, Gästeführung Flörsheim-Dalsheim, Gästeführungen Flörsheim-Dalsheim,Atelier, Atelier Flörsheim-Dalshei, Atelier Ternis, Kunst in Rheinhessen, Kunst im Wonnegau, Rheinhessen, Wonnegau, VG Monsheim, Rheinland-Pfalz, Gästeführungen Rheinhessen, Künstler Rheinhessen">
