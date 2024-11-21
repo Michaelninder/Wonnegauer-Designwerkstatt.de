@@ -11,4 +11,5 @@ ${title.us} = "Wir";
 
 
 // Page messages
+${message.index} = "Willkommen auf unserer Startseite!";
 ?>
