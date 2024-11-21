@@ -7,3 +7,5 @@ ${page.message} = ${message.index};
 
 
 include 'assets/php/head.php';
+
+?>
