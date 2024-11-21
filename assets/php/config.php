@@ -1,4 +1,5 @@
 <?php 
+// Page titles
 ${title.index} = "Startseite";
 ${title.contact} = "Kontakt";
 ${title.design} = "Design";
