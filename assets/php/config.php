@@ -5,5 +5,5 @@ ${title.design} = "Design";
 ${title.art} = "Kunst";
 ${title.current} = "Aktuelles";
 ${title.tours} = "Führungen";
-${us.title} = "Wir";
+${title.us} = "Wir";
 ?>
