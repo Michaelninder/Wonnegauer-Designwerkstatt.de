@@ -6,6 +6,4 @@ ${page.title} = ${title.index};
 ${page.message} = ${message.index};
 
 
-include 'assets/php/head.php';
-
-?>
+include 'assets/php/head.php'; ?>
