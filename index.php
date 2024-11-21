@@ -10,3 +10,6 @@ include 'assets/php/head.php'; ?>
 
 
 </main>
+
+</body>
+</html>
