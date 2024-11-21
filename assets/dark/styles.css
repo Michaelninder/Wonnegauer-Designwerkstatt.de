@@ -1,0 +1,46 @@
+/* Dark-Mode General Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    color: #e0e0e0;
+    background-color: #121212;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+p {
+    line-height: 1.6;
+}
+
+a {
+    color: #82aaff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bb86fc;
+}
+
+button {
+    background-color: #333;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Container for centered content */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
