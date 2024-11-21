@@ -1,2 +1,2 @@
-<?php
-include 'assets/php/config.php';
+<?php include 'assets/php/config.php';
+${page.name} = ${name.index};
