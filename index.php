@@ -11,5 +11,5 @@ include 'assets/php/head.php'; ?>
 
 </main>
 
-</body>
-</html>
+
+<?php include 'assets/php/footer.php'; ?>
