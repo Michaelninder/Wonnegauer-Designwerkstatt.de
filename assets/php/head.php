@@ -6,17 +6,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title><?php echo $title[$page_name]; ?></title>
 
-    <?php
-    // Theme switching logic
-    $theme = isset($_COOKIE['theme']) ? $_COOKIE['theme'] : 'light';
-    if ($theme === 'dark') {
-        echo '<link rel="stylesheet" href="assets/css/dark/styles.css">';
-        echo '<link rel="stylesheet" href="assets/css/dark/navbar.css">';
-    } else {
-        echo '<link rel="stylesheet" href="assets/css/light/styles.css">';
-        echo '<link rel="stylesheet" href="assets/css/light/navbar.css">';
-    }
-    ?>
+	<?php
+	$theme = isset($_COOKIE['theme']) ? $_COOKIE['theme'] : 'light'; 
+	?>
+	<link rel="stylesheet" href="assets/css/styles.css">
+	<link rel="stylesheet" href="assets/css/navbar.css">
+	<link rel="stylesheet" href="assets/css/<?php echo $theme; ?>/styles.css">
 
     <style>
         a:hover {color: #CC0000; font-family: Consolas}
@@ -28,3 +23,4 @@
 <main>
     <h1><?php echo $title[$page_name]; ?></h1>
     <p><?php echo $message[$page_name]; ?></p>
+
