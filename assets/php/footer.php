@@ -7,7 +7,7 @@
         <td valign="top">
         <p>&copy; 2024 Wonnegauer Designwerkstatt. Alle Rechte vorbehalten.</p>
         <p><a href="impressum.php">Impressum/Datenschutz</a></p>
-          </font></p>
+        </p>
         </td>
       </tr>
     </table>
