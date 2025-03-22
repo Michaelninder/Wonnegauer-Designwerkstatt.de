@@ -3,7 +3,6 @@ $page_name = "index";
 include 'assets/php/config.php'; 
 include 'assets/php/cookies.php'; 
 
-// Set the title and message dynamically
 $title = $title[$page_name]; 
 $message = $message[$page_name]; 
 
