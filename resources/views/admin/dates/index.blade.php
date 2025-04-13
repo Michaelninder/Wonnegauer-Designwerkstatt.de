@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container py-5">
-    <h1 class="text-center mb-4">Terminverwaltung</h1>
+    <h1 class="text-center mb-4">Termine verwalten</h1>
 
     @if(session('success'))
         <div class="alert alert-success">
