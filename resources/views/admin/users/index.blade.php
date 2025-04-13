@@ -3,6 +3,13 @@
 @section('content')
     <div class="container py-5">
         <h1 class="text-center mb-4">Benutzerverwaltung</h1>
+        
+        @if(session('success'))
+            <div class="alert alert-success">
+                {{ session('success') }}
+            </div>
+        @endif
+
         <a href="{{ route('admin.users.create') }}" class="btn btn-primary mb-4">Neuen Benutzer erstellen</a>
 
         <table class="table table-striped">
